@@ -1,0 +1,11 @@
+{
+  "existing": {
+    "name": "QA Existing",
+    "email": "qa.existing@example.com",
+    "password": "Test@1234"
+  },
+  "invalid": {
+    "email": "qa.existing@example.com",
+    "password": "Wrong@123"
+  }
+}
